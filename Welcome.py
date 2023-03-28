@@ -21,12 +21,5 @@ st.markdown(
     Hope this dataset helps the data analysis community.
 
     ---
-    ### Members
-    - The Website's designed by 4 people:
-        - Trần Quốc Bảo - 20127449
-        - Hồ Đăng Cao - 20127452
-        - Đỗ Đức Duy - 20127476
-        - Ngô Hữu Nhật Thanh - 20127327
-
 """
 )
